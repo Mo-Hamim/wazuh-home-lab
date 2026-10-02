@@ -36,10 +36,10 @@
 
 ### Attack
 - Tool: Hydra v9.7
-- Command: `hydra -l testuser -P wordlist.txt ssh://192.168.1.85`
+- Command: `hydra -l testuser -P wordlist.txt ssh://x.x.x.x`
 - Wordlist: 8 entries, real password (passwordHacked00_) placed last
-- Target: Windows host, IP 192.168.1.85
-- Attacker: Kali VM, IP 192.168.1.247, bridged network
+- Target: Windows host, IP x.x.x.x
+- Attacker: Kali VM, IP x.x.x.x, bridged network
 - Attack timestamp (hydra): 15:54:19–15:54:20
 
 ### Result
