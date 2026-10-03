@@ -113,7 +113,7 @@ Custom rules are stored in [`/rules`](rules/).
 
 ## Credits
 
-- Guide: Royden Rebello (TheSocialDork), Wazuh Home Lab - SIEM and File Integrity Monitoring
+- Guide: Royden Rebello (TheSocialDork), Wazuh Home Lab - SIEM and File Integrity Monitoring (https://www.youtube.com/watch?v=QT81wcuoRFY&t=809s)
 - [Wazuh documentation](https://documentation.wazuh.com)
 
 ## Disclaimer
