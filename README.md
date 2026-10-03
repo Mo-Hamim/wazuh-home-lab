@@ -128,5 +128,4 @@ All testing was conducted on private machines in an isolated home lab. Real pass
 wazuh-home-lab/
 ├── README.md
 ├── screenshots/
-├── configs/     # sanitized ossec.conf changes
-└── rules/       # custom rules
+└── rules/       # custom rule
