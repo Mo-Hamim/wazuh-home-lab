@@ -122,10 +122,4 @@ All testing was conducted on private machines in an isolated home lab. Real pass
 
 ---
 
-## Repo Structure
 
-```text
-wazuh-home-lab/
-├── README.md
-├── screenshots/
-└── rules/       # custom rule
